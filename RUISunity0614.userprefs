@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\HandChoosing\HScroll.cs">
+    <Files>
+      <File FileName="Assets\Script\HandControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\RUIS\Scripts\Input\RUISSkeletonController.cs" Line="1" Column="1" />
+      <File FileName="Assets\RUIS\Scripts\Input\RUISSkeletonWand.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\HumanCamRot.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\CamRotates.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\HandChoosing\HHumanCamRot.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\HandChoosing\HCamRot.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\HandChoosing\HShoesView.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\HandChoosing\HHumanView.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\HandChoosing\HScroll.cs" Line="27" Column="3" />
+      <File FileName="Assets\Script\InSelectView.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\InRotateView.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ShoeChoose.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\HandChoosing\HScroll2.cs" Line="21" Column="18" />
+      <File FileName="Assets\Script\HandChoosing\HStart2.cs" Line="12" Column="41" />
+      <File FileName="Assets\Script\HandChoosing\HStartTryOn.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
